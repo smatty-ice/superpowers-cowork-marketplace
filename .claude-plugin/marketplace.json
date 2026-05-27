@@ -1,0 +1,22 @@
+{
+  "name": "superpowers-cowork-marketplace",
+  "owner": {
+    "name": "Winfield Smathers"
+  },
+  "description": "Marketplace for the Superpowers for Cowork plugin.",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "superpowers-cowork",
+      "source": {
+        "source": "github",
+        "repo": "smatty-ice/superpowers-cowork"
+      },
+      "description": "Structured knowledge-work workflows for Cowork: clarify, plan, verify, and deliver with explicit human checkpoints.",
+      "version": "0.4.0",
+      "author": {
+        "name": "Winfield Smathers"
+      }
+    }
+  ]
+}
