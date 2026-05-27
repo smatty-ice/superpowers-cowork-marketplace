@@ -13,7 +13,7 @@
         "repo": "smatty-ice/superpowers-cowork"
       },
       "description": "Structured knowledge-work workflows for Cowork: clarify, plan, verify, and deliver with explicit human checkpoints.",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "author": {
         "name": "Winfield Smathers"
       }
